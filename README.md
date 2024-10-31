@@ -59,7 +59,7 @@ En esta práctica, se utilizó la wavelet tipo morlet, porque combina propiedade
 
 Con esta transformada se obtiene un espectrograma, el cual es una representación visual que muestra cómo varía la energía de las diferentes frecuencias de una señal a lo largo del tiempo. En este ejercicio el resultado de este fue:
 
-(imagen espectrograma)
+![image](https://github.com/user-attachments/assets/9266688d-4c4b-46bd-8e97-3501051bee49)
 
 
 Con este, se puede analizar la dinámica temporal de la señal cardiaca. Teniendo presente que el eje horizontal representa el tiempo en s, el eje vertical la frecuencia y los colores la potencia o energía de la señal, donde los más brillantes como rojos, reflejan una alta potencia y los tonos azules reflejan la baja potencia. 
