@@ -67,6 +67,6 @@ Con esta información, se analizaron las frecuencias altas y bajas de esta gráf
 En las frecuencias bajas 0,04- 0,15:  las frecuencias bajas pueden mostrar cambios que reflejan la variación en la frecuencia cardíaca. Por ejemplo, un aumento en la actividad física puede llevar a un incremento en la frecuencia cardíaca, visible como un aumento en la energía en esta banda. La potencia se mantiene estable, pero puede cambiar significativamente durante el ejercicio o situaciones de estrés, estimulado por el sistema simpático.
 
 En las frecuencias altas 0,15-0,4 tenemos que: pueden mostrar picos transitorios que indican eventos agudos, como extrasístoles o arritmias. Estos picos son importantes para detectar irregularidades en el ritmo cardíaco.Además la potencia espectral en esta banda puede verse afectada por interferencias externas (como ruido eléctrico) y por condiciones fisiológicas como arritmias. 
-
+sin embargo en el caso de este laboratorio, se evidencia que no se logró captar de la forma correcta con la transformada Wavelet tipo Morlet, esto puede ser por problemas en la programación de la gráfica, o problemas con la actualización de bibliotecas en Colab, generando perdida total de la información 
 
 
